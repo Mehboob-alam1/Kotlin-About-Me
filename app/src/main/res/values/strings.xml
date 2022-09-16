@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Mehboob Alam</string>
+    <string name="yellow" />
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi my name is Mehboob Alam Lone
+    \n\nI love coding
+    \n\nAm a student of Software Engineering i have recently completed my Intermediates.
+    \n\nI work in a company as an Android Developer Team Lead and Mentor.
+    \n\nI want to create a next level Operating System and Also,
+    \n\nLove to work in Artificial Intelligence and Cyber Security.
+    \n\nEnough for now !!
+    \n\nI love coding
+    \n\nAm a student of Software Engineering i have recently completed my Intermediates.
+    \n\nI work in a company as an Android Developer Team Lead and Mentor.
+    \n\nI want to create a next level Operating System and Also,
+    \n\nLove to work in Artificial Intelligence and Cyber Security.
+    \nnEnough for now !!\n\n</string>
+    <string name="what_is_your_nickname">What is your nick name?</string>
+    <string name="done">Done</string>
+
+</resources>
